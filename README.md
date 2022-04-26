@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ErayOzdayioglu, Senior CS Student in Ozyegin University
+- 👋 Hi, I’m @ErayOzdayioglu, Software Developer at Kirapratik
 - 👀 I’m interested in Backend Development and Cloud Computing
-- 🌱 I’m currently learning Golang and Linux
+- 🌱 Technologies I love to use : Java, Spring Boot, Linux and Golang
 - 📫 How to reach me eray.ozdayioglu@ozu.edu.tr
 - ✨ https://twitter.com/eozdd
 
